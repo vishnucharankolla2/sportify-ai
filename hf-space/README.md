@@ -1,3 +1,10 @@
+---
+title: Sportify AI
+app_file: app_gradio.py
+sdk: gradio
+python_version: 3.11
+---
+
 # Sportify AI - Testing Interface
 
 A comprehensive Streamlit interface for testing and interacting with the **Sportify AI Global Football Intelligence & Club Matchmaking Engine**.
